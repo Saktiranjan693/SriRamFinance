@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <g>
+    <path d="M6.15,11.55h2.5c.54,0,.97,.44,.97,.97V29.33H5.18V12.52c0-.54,.44-.97,.97-.97Z" fill="#ffcb09"/>
+    <g>
+      <path d="M9.62,17.54l4.33-1.19,4.47-1.23h.01l4.47-1.24,4.48-1.23,.59-.16c.79-.21,1.24-1.01,1.03-1.8l-.28-1.03c-.21-.79-1.03-1.24-1.8-1.03l-3.27,.89-4.47,1.23h-.01l-4.47,1.24-4.48,1.23-.6,.16" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="10.21" y1="13.23" x2="13.95" y2="16.35" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="14.69" y1="12" x2="18.43" y2="15.12" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="19.17" y1="10.77" x2="22.91" y2="13.89" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="23.65" y1="9.54" x2="27.38" y2="12.66" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <path d="M4.41,2.66h3.75c.8,0,1.46,.65,1.46,1.46V29.33H2.95V4.12c0-.8,.65-1.46,1.46-1.46Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="2.95" y1="29.34" x2="28.78" y2="29.34" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect width="32" height="32" fill="none" opacity="0"/>
+</svg>
