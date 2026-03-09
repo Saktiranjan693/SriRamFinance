@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <g>
+    <path d="M24.16,17.98c0,3.75-3.04,6.78-6.78,6.78s-6.78-3.04-6.78-6.78,3.04-6.78,6.78-6.78,6.78,3.04,6.78,6.78Z" fill="#ffcb09"/>
+    <g>
+      <path d="M16,10.66l-1.39,2.41c-.31,.54-.06,.97,.56,.97h1.65c.62,0,.87,.44,.56,.97l-1.39,2.41" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M11.18,23.85v-1.51c-2.98-1.8-5.44-5.33-5.44-9.06C5.75,6.84,11.66,1.79,18.34,3.25c2.94,.64,5.51,2.6,6.85,5.29,2.71,5.46-.14,11.26-4.34,13.79v1.51c0,.38,.14,1.25-1.25,1.25h-7.17c-1.43,0-1.25-.56-1.25-1.25Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M11.45,29h0c2.97-.85,6.13-.85,9.1,0h0" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+  <rect width="32" height="32" fill="none"/>
+</svg>
