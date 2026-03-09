@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <g>
+    <path d="M24.16,15.97l.06,8.65c.02,3.46-.65,4.33-3.38,4.35l-4.09,.03c-2.72,.02-3.41-.84-3.43-4.3l-.06-8.65c-.02-3.46,.65-4.33,3.38-4.35l4.09-.03c2.72-.02,3.41,.84,3.43,4.3Z" fill="#ffcb09"/>
+    <path d="M13.42,16.56h1.35v3.14c0,.73,.4,.88,.88,.33l3.3-3.76c.4-.46,.23-.84-.38-.84h-1.35v-3.14c0-.73-.4-.88-.88-.33l-3.3,3.76c-.4,.46-.23,.84,.38,.84Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <g>
+      <path d="M24.13,9.46l.09,12.98c.03,5.19-.98,6.5-5.07,6.52l-6.13,.04c-4.09,.03-5.12-1.26-5.15-6.46l-.09-12.98c-.03-5.19,.98-6.5,5.07-6.52l6.13-.04c4.09-.03,5.12,1.26,5.15,6.46Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M24.08,7.82l-16.25,.03" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M24.15,24.05l-16.19,.03" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M18.14,26.53l-4.17-.05" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+  <rect width="32" height="32" fill="none" opacity="0"/>
+</svg>
